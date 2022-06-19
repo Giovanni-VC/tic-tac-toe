@@ -6,6 +6,12 @@ Play tic-tac-toe from the command line.
 
 A tic-tac-toe game made in python to play against the computer through the command line. The user chooses the position of the board which are identified with numbers from 1 to 9. At each turn, the resulting board is shown.
 
+The project is still in development and the next updates will focus on the following tasks:
+
+- [ ] Local multiplayer
+- [ ] Score
+- [ ] Check for draw
+
 ## Getting Started
 
 ### Dependencies
